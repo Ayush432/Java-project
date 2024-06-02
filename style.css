@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+table,th,td{
+	border: 1px solid black;
+	border-collapse:collapse;
+  }
+  th,td{
+  padding :10px;  
+  }
+  table{
+  align-content: center;
+  background-color: #0080ff;
+  }
+  dsb{
+  background-image: url("dashboard.jpg");
+  }
+    .rgs{
+  background-image:url( "C:\Users\Anil\Documents\01 Advance Java Batch-20221214T083732Z-001\01 Advance Java Batch\Class Project\project_files\recep.jpg");
+  }
+    lg{
+  background-image: url("gate.jpg");
+  }
+    .ad{
+  background-image: url("C:\Users\Anil\Documents\01 Advance Java Batch-20221214T083732Z-001\01 Advance Java Batch\Class Project\project_files\add.jpg");
+  }
+    .up{
+  background-image: url("C:\Users\Anil\Documents\01 Advance Java Batch-20221214T083732Z-001\01 Advance Java Batch\Class Project\project_files\update.jpg");
+  }
